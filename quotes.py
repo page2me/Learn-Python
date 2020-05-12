@@ -1,4 +1,4 @@
-# triple (three times) , double and single quotes
+# double and single quotes, triple (three times)
 print("Hello World!") # double quotes
 print('Hello World!') # singlw quotes
 
