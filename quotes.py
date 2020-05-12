@@ -10,5 +10,12 @@ world3''')
 print("""Hello
 world4""")
 
-print("Hey there it's a cow")
+# print single quotes
+print("Hey there it is a 'cow'")
+# print double quotes
 print('Hey there it is a "cow"')
+# print single and double quotes
+print(''''Hey' there it is a "cow"''')
+print(""""Hey" there it is a 'cow'""")
+
+
