@@ -1,18 +1,14 @@
 # double and single quotes, triple (three times)
-print("Hello World!") # double quotes
-print('Hello World!') # singlw quotes
+print("Hello World1") # double quotes
+print('Hello World2') # singlw quotes
 
 # single quotes three times
-print('''I am mad in love
-do you think
-I am doing
-the right thing ''')
+print('''Hello
+world3''')
 
 # double quotes three times
-print("""I am mad in love
-do you think
-I am doing
-the right thing """)
+print("""Hello
+world4""")
 
 print("Hey there it's a cow")
 print('Hey there it is a "cow"')
