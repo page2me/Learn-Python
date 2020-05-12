@@ -1,6 +1,7 @@
 # This is a single line comment in Python
 print("Hello World") # This is a single comment in Python
-""" For a single-line comment, # is used, while for a multiline comment,
-triple quotes are used
+""" 
+- single-line comment, # is used
+- multiline comment, double quotes three times are used
 """
 print("Hello World!")
