@@ -2,6 +2,6 @@
 print("Hello World") # This is a single comment in Python
 """ 
 - single-line comment, # is used
-- multiline comment, double quotes three times are used
+- multiline comment, double quotes triple (three times) are used
 """
 print("Hello World!")

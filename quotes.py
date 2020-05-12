@@ -1,6 +1,6 @@
-# Triple, double and single quotes
-print("Hello World!")
-print('Hello World!')
+# triple (three times) , double and single quotes
+print("Hello World!") # double quotes
+print('Hello World!') # singlw quotes
 
 # single quotes three times
 print('''I am mad in love
